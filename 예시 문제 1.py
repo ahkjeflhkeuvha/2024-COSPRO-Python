@@ -1,3 +1,5 @@
+# n부터 m까지 자연수의 합
+
 def func_a(k):
     sum = 0
     for i in range(1, k+1):
